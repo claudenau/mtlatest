@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-08-28T22:21:20Z",
+  "publishedAt": "2026-08-30T11:39:04Z",
   "versions": {
-    ".": "26.47.0",
+    ".": "26.48.0",
     "apps/hello/src/apps/cat-houses": "0.4.0",
     "apps/hello/src/apps/cat-logger-outside": "0.5.0",
     "apps/hello/src/apps/cat-manager-six": "0.4.0",
