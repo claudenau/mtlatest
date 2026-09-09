@@ -1,13 +1,13 @@
 {
-  "publishedAt": "2026-09-08T11:56:46Z",
+  "publishedAt": "2026-09-09T12:26:52Z",
   "versions": {
-    ".": "26.50.0",
+    ".": "26.51.0",
     "apps/hello/src/apps/cat-houses": "0.4.0",
     "apps/hello/src/apps/cat-logger-outside": "0.5.0",
     "apps/hello/src/apps/cat-manager-six": "0.4.0",
     "apps/hello/src/apps/cockpit": "0.7.0",
     "apps/hello/src/apps/contact": "0.9.0",
-    "apps/hello/src/apps/inventaire": "0.7.0",
+    "apps/hello/src/apps/inventaire": "0.8.0",
     "apps/hello/src/apps/maintenance": "0.6.0",
     "apps/hello/src/apps/reservations": "0.6.0",
     "apps/hello/src/apps/ui-lab": "0.7.0"
