@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-09-21T06:54:15Z",
+  "publishedAt": "2026-09-21T07:26:17Z",
   "versions": {
-    ".": "26.58.0",
+    ".": "26.59.0",
     "apps/hello/src/apps/cockpit": "0.10.0",
     "apps/hello/src/apps/contact": "0.12.0",
     "apps/hello/src/apps/inventaire": "0.11.1",
