@@ -1,12 +1,12 @@
 {
-  "publishedAt": "2026-09-24T13:41:11Z",
+  "publishedAt": "2026-09-28T22:34:38Z",
   "versions": {
-    ".": "26.61.0",
-    "apps/hello/src/apps/cockpit": "0.11.0",
+    ".": "26.62.0",
+    "apps/hello/src/apps/cockpit": "0.12.0",
     "apps/hello/src/apps/contact": "0.13.0",
-    "apps/hello/src/apps/inventaire": "0.13.0",
+    "apps/hello/src/apps/inventaire": "0.14.0",
     "apps/hello/src/apps/patisserie": "0.6.0",
-    "apps/hello/src/apps/timesheet": "0.3.0",
-    "orgs/tac-studio": "0.4.0"
+    "apps/hello/src/apps/timesheet": "0.4.0",
+    "orgs/tac-studio": "0.4.1"
   }
 }
