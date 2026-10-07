@@ -1,13 +1,16 @@
 {
-  "publishedAt": "2026-10-04T13:13:37Z",
+  "publishedAt": "2026-10-07T12:07:17Z",
   "versions": {
-    ".": "26.63.0",
-    "apps/hello/src/apps/cockpit": "0.12.0",
-    "apps/hello/src/apps/contact": "0.14.0",
-    "apps/hello/src/apps/croquis": "0.2.0",
-    "apps/hello/src/apps/inventaire": "0.15.0",
+    ".": "26.64.0",
+    "apps/hello/src/apps/canaux": "0.2.0",
+    "apps/hello/src/apps/cockpit": "0.12.1",
+    "apps/hello/src/apps/contact": "0.14.1",
+    "apps/hello/src/apps/croquis": "0.3.0",
+    "apps/hello/src/apps/inventaire": "0.16.0",
+    "apps/hello/src/apps/pages": "0.2.0",
     "apps/hello/src/apps/patisserie": "0.7.0",
     "apps/hello/src/apps/timesheet": "0.5.0",
-    "orgs/tac-studio": "0.5.0"
+    "orgs/tac-studio": "0.6.0",
+    "orgs/taki": "0.2.0"
   }
 }
