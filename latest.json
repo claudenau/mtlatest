@@ -1,5 +1,5 @@
 {
-  "publishedAt": "2026-10-09T07:33:26Z",
+  "publishedAt": "2026-10-09T07:37:21Z",
   "versions": {
     ".": "26.66.0",
     "apps/hello/src/apps/canaux": "0.2.0",
@@ -14,6 +14,6 @@
     "apps/hello/src/apps/timesheet": "0.5.1",
     "orgs/tac-studio": "0.6.0",
     "orgs/taki": "0.2.0",
-    "orgs/demo": "0.1.0"
+    "orgs/demo": "0.2.0"
   }
 }
