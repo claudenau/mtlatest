@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-10-08T19:35:08Z",
+  "publishedAt": "2026-10-09T07:33:26Z",
   "versions": {
-    ".": "26.65.0",
+    ".": "26.66.0",
     "apps/hello/src/apps/canaux": "0.2.0",
     "apps/hello/src/apps/cockpit": "0.12.1",
     "apps/hello/src/apps/contact": "0.14.2",
@@ -13,6 +13,7 @@
     "apps/hello/src/apps/taches": "0.2.0",
     "apps/hello/src/apps/timesheet": "0.5.1",
     "orgs/tac-studio": "0.6.0",
-    "orgs/taki": "0.2.0"
+    "orgs/taki": "0.2.0",
+    "orgs/demo": "0.1.0"
   }
 }
