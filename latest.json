@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-10-10T07:26:30Z",
+  "publishedAt": "2026-10-10T13:09:39Z",
   "versions": {
-    ".": "26.67.0",
+    ".": "26.68.0",
     "apps/hello/src/apps/canaux": "0.2.0",
     "apps/hello/src/apps/cockpit": "0.12.1",
     "apps/hello/src/apps/contact": "0.14.2",
