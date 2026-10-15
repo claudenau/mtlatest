@@ -1,17 +1,18 @@
 {
-  "publishedAt": "2026-10-12T21:56:14Z",
+  "publishedAt": "2026-10-15T07:20:59Z",
   "versions": {
-    ".": "26.70.0",
+    ".": "26.71.0",
     "apps/hello/src/apps/canaux": "0.3.0",
     "apps/hello/src/apps/cockpit": "0.13.0",
-    "apps/hello/src/apps/contact": "0.16.0",
+    "apps/hello/src/apps/contact": "0.17.0",
     "apps/hello/src/apps/croquis": "0.4.0",
+    "apps/hello/src/apps/flux": "0.2.0",
     "apps/hello/src/apps/pages": "0.3.0",
-    "apps/hello/src/apps/projets": "0.3.0",
-    "apps/hello/src/apps/taches": "0.4.0",
-    "apps/hello/src/apps/timesheet": "0.6.0",
-    "orgs/tac-studio": "0.6.0",
-    "orgs/taki": "0.2.0",
+    "apps/hello/src/apps/projets": "0.4.0",
+    "apps/hello/src/apps/taches": "0.5.0",
+    "apps/hello/src/apps/timesheet": "0.7.0",
+    "orgs/tac-studio": "0.7.0",
+    "orgs/taki": "0.3.0",
     "orgs/demo": "0.2.0"
   }
 }
