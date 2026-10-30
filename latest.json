@@ -1,19 +1,23 @@
 {
-  "publishedAt": "2026-10-27T19:39:00Z",
+  "publishedAt": "2026-10-30T08:01:55Z",
   "versions": {
-    ".": "26.78.0",
-    "apps/hello/src/apps/canaux": "0.7.0",
-    "apps/hello/src/apps/cockpit": "0.13.0",
-    "apps/hello/src/apps/contact": "0.18.0",
+    ".": "26.79.0",
+    "apps/hello/src/apps/canaux": "0.8.0",
+    "apps/hello/src/apps/catalogue": "0.2.0",
+    "apps/hello/src/apps/cockpit": "0.14.0",
+    "apps/hello/src/apps/consultations": "0.2.0",
+    "apps/hello/src/apps/contact": "0.19.0",
     "apps/hello/src/apps/croquis": "0.4.1",
     "apps/hello/src/apps/demo-town": "0.3.0",
     "apps/hello/src/apps/flux": "0.7.0",
-    "apps/hello/src/apps/projets": "0.5.0",
+    "apps/hello/src/apps/patients": "0.2.0",
+    "apps/hello/src/apps/projets": "0.6.0",
     "apps/hello/src/apps/smart-notes": "0.3.0",
-    "apps/hello/src/apps/taches": "0.6.0",
-    "apps/hello/src/apps/timesheet": "0.10.0",
-    "orgs/tac-studio": "0.10.0",
-    "orgs/taki": "0.7.0",
+    "apps/hello/src/apps/taches": "0.7.0",
+    "apps/hello/src/apps/timesheet": "0.11.0",
+    "orgs/bevet": "0.2.0",
+    "orgs/tac-studio": "0.11.0",
+    "orgs/taki": "0.8.0",
     "orgs/demo": "0.2.0"
   }
 }
